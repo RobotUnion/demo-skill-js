@@ -1,0 +1,15 @@
+{
+  "name": "rallf-js-demo-skill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "rallf-js run -i {}"
+  },
+  "author": "nombrekeff",
+  "license": "ISC",
+  "dependencies": {
+    "rallf-js-sdk": "^0.7.7",
+    "request": "^2.88.0"
+  }
+}
