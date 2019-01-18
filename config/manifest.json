@@ -2,7 +2,7 @@
   "name": "rallf-js-demo-skill",
   "type": "skill",
   "main": "src/main.js",
-  "version_name": "1.0.0",
+  "version": "1.0.0",
   "language": "nodejs",
   "fqtn": "rallf.js.demo.skill",
   "methods": [
