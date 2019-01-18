@@ -9,7 +9,7 @@
   "author": "nombrekeff",
   "license": "ISC",
   "dependencies": {
-    "rallf-js-sdk": "^0.7.7",
+    "rallf-js-sdk": "^0.7.9",
     "request": "^2.88.0"
   }
 }
