@@ -6,8 +6,6 @@ const rallf = require('rallf-js-sdk');
 class SkillDemo extends rallf.Task {
   constructor() {
     super();
-    this.firefox = null;
-    this.chrome = null;
   }
 
   // Skills also can have a warmup and a cooldown
@@ -16,7 +14,7 @@ class SkillDemo extends rallf.Task {
   }
   
   async cooldown() {
-    this.logger.debug('Skill is cooled up!');
+    this.logger.debug('Skill is cooled down!');
   }
 
   // method wich can be called from other tasks/skills
